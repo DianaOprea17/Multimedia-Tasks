@@ -1,0 +1,4 @@
+"(3p) Adäugati in codul HTML al paginii un element de tip ‹canvas> si un element de tip ‹audio>.
+Se va asigura afisarea interfetei pentru controlul fisierului audio disponibila implicit in browser. 
+(3p) Adäugati un buton care sã permita trecerea aplicatie in starea de redare, respectiv de pauza. Asigurati modificarea textului de pe buton.
+(3p) Afisati pe canvas prenumele scris la un unghi de 90 de grade."

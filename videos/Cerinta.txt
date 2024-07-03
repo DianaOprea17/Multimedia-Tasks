@@ -1,0 +1,3 @@
+Modificati aplicatia dezvoltata, astfel incât la click pe un buton sã inceapa redarea fisierului „video.mp4" din directorul media", 
+incepand cu secunda 00:30.
+Afisati in permanenta pe canvas durata ramasa de redat din fisierul video."

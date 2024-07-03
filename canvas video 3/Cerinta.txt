@@ -1,0 +1,2 @@
+Modificati aplicatia dezvoltatã, astfel incât la click pe un buton sã se asigure revenirea cu 10s în cadrul fisierului video.
+Afisati pe canvas video-ul in tonuri de gri.
